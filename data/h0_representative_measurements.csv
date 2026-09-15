@@ -1,0 +1,8 @@
+measurement,H0,error,type,source,doi
+Planck 2018,67.4,0.5,Early,Planck Collaboration (2020),https://doi.org/10.1051/0004-6361/201833910
+ACT DR4,67.9,1.5,Early,Aiola et al. (2020),https://doi.org/10.1088/1475-7516/2020/12/047
+BAO+BBN (SDSS DR16),67.35,0.97,Early,Alam et al. (2021),https://doi.org/10.1103/PhysRevD.103.083533
+TDCOSMO lensing,74.2,1.6,Late,Millon et al. (2020),https://doi.org/10.1051/0004-6361/202038861
+CCHP TRGB,69.8,1.9,Late,Freedman et al. (2021),https://doi.org/10.3847/1538-4357/ac0e95
+SH0ES 2022,73.04,1.04,Late,Riess et al. (2022),https://doi.org/10.3847/2041-8213/ac5c5b
+SBF,73.3,2.5,Late,Blakeslee et al. (2021),https://doi.org/10.3847/1538-4357/abe86a
